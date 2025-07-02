@@ -147,7 +147,7 @@ GET /books?genre=Fiction
 ```json
 {
   "email": "user@example.com",
-  "password": "secure123"
+  "password": "password123"
 }
 ```
 
